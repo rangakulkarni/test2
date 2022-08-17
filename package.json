@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "autoprefixer": "10.4.5",
+    "bootstrap": "^5.2.0",
+    "fake": "^0.2.2",
+    "my-module": "^1.0.0",
+    "package": "^1.0.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.4.0",
+    "react-router-dom": "^6.3.0",
+    "webpack": "^5.74.0",
+    "yarn": "^1.22.19"
+  }
+}
